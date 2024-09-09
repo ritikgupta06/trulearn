@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <>
-      there i will call all the element
+      this is the starting page of trulern
     </>
   );
 }
